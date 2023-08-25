@@ -37,8 +37,8 @@ lim_snow6 = 6.   # cm
 lim_snow25 = 25. # cm
 
 
-input_dat = "/Users/suraj_fmi/D_Drive/Prog_FMI/dmin_CLIMAAX/"
-output_dar = "/Users/suraj_fmi/D_Drive/Prog_FMI/dmin_CLIMAAX/"
+input_dat = "/Users/suraj_fmi/dmin_CLIMAAX/"
+output_dar = "/Users/suraj_fmi/dmin_CLIMAAX/"
 
 #| Read a Datasets 
 #|
